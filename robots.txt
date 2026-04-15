@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://derby-analyse.de/sitemap.xml
